@@ -1,0 +1,23 @@
+.mainContainer{
+    background-color: white;
+    border: 2px solid green;
+    border-radius: 20px;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+p{
+    font-size: 14px;
+}
+h2{
+    font-size: 18px;
+}
+#secondContainer{
+    color: red;
+    font-size: 14px;
+}
+#thirdcontainer{
+    color: blue;
+    font-size: 14px;
+
+}
